@@ -107,14 +107,24 @@ The AI evaluates legal candidate moves using a **depth-limited Minimax search**.
 
 In the 3D interface, the user can select search depth **2** or **3**. Higher search depth generally considers more future moves but may require more computation.
 
+
 ## Screenshots
 
-Screenshots can be added here after capturing the running application:
+### 3D Chess Game
+Interactive 3D chess environment featuring an AI opponent, move history, and camera controls.
 
-```markdown
-![2D chess interface](docs/screenshots/chess-2d.png)
-![3D chess interface](docs/screenshots/chess-3d.png)
-```
+![3D Chess Game](screenshots/Foto2.png)
+
+### 3D Gameplay – Alternative Camera View
+Explore the chess environment from different camera perspectives.
+
+![3D Gameplay](screenshots/Foto3.png)
+
+### 2D Chess Interface
+Classic chess interface featuring move history, captured pieces, turn indicators, and game controls.
+
+![2D Chess Game](screenshots/foto2D.png)
+
 
 ## Future Improvements
 
