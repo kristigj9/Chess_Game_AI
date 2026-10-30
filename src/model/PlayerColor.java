@@ -1,4 +1,5 @@
 package model;
 
-public class PlayerColor {
+public enum PlayerColor {
+    WHITE, BLACK
 }
