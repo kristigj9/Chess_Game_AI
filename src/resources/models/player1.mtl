@@ -1,0 +1,68 @@
+# Blender 5.1.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Bodymat
+Ka 0.040000 0.040000 0.040000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Remy_Body_Diffuse.png
+map_Ks C:/Remy_Body_Specular.png
+map_Ns C:/Remy_Body_Gloss.png
+map_Bump C:/Remy_Body_Normal.png
+
+newmtl Bottommat
+Ka 0.040000 0.040000 0.040000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Remy_Bottom_Diffuse.png
+map_Ks C:/Remy_Bottom_Specular.png
+map_Ns C:/Remy_Bottom_Gloss.png
+map_Bump C:/Remy_Bottom_Normal.png
+
+newmtl Eyelashmat
+Ka 0.040000 0.040000 0.040000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd C:/Remy_Body_Diffuse.png
+map_Ks C:/Remy_Body_Specular.png
+map_Ns C:/Remy_Body_Gloss.png
+map_d C:/Remy_Body_Opacity.png
+map_Bump C:/Remy_Body_Normal.png
+
+newmtl Hairmat
+Ka 0.040000 0.040000 0.040000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd C:/Remy_Hair_Diffuse.png
+map_Ks C:/Remy_Hair_Specular.png
+map_Ns C:/Remy_Hair_Gloss.png
+map_d C:/Remy_Hair_Opacity.png
+map_Bump C:/Remy_Hair_Normal.png
+
+newmtl Shoesmat
+Ka 0.040000 0.040000 0.040000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Remy_Shoes_Diffuse.png
+map_Ks C:/Remy_Shoes_Specular.png
+map_Ns C:/Remy_Shoes_Gloss.png
+map_Bump C:/Remy_Shoes_Normal.png
+
+newmtl Topmat
+Ka 0.040000 0.040000 0.040000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Remy_Top_Diffuse.png
+map_Ks C:/Remy_Top_Specular.png
+map_Ns C:/Remy_Top_Gloss.png
+map_Bump C:/Remy_Top_Normal.png
